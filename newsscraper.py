@@ -171,7 +171,7 @@ def run(config, limit=4):
     if failed_sites:
         logging.warning(f"Failed to process these sites: {', '.join(failed_sites)}")
 
-# News site scraper. Takes a command line argument containing json
+# Scraper function - requires a command line argument containing json
 
 def main():
 
