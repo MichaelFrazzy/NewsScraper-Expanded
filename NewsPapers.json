@@ -1,0 +1,61 @@
+{
+  "bbc": {
+    "rss": "http://feeds.bbci.co.uk/news/rss.xml",
+    "link": "http://www.bbc.com/"
+  },
+  "breitbart": {
+    "link": "http://www.breitbart.com/"
+  },
+  "cnn": {
+    "rss": "http://rss.cnn.com/rss/edition.rss",
+    "link": "http://edition.cnn.com/"
+  },
+  "foxnews": {
+    "rss": "http://feeds.foxnews.com/foxnews/latest",
+    "link": "http://www.foxnews.com/"
+  },
+  "nytimes_frontpage": {
+    "link": "https://nytimes.com/",
+    "rss": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+  },
+  "nytimes_international": {
+    "link": "https://nytimes.com/",
+    "rss": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+  },
+  "theguardian": {
+    "rss": "https://www.theguardian.com/uk/rss",
+    "link": "https://www.theguardian.com/international"
+  },
+  "washingtonpost": {
+    "rss": "http://feeds.washingtonpost.com/rss/world",
+    "link": "https://www.washingtonpost.com/"
+  },
+  "coindesk": {
+    "rss": "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "link": "https://www.coindesk.com"
+  },
+  "cointelegraph": {
+    "rss": "https://cointelegraph.com/editors_pick_rss", # editors pick, for all feeds use https://cointelegraph.com/rss"
+    "link": "https://www.cointelegraph.com"
+  },
+  "bitcoin_magazine": {
+    "rss": "https://bitcoinmagazine.com/.rss/full",
+    "link": "https://bitcoinmagazine.com/"
+  },
+  "cryptoslate": {
+    "rss": "https://cryptoslate.com/feed",
+    "link": "https://cryptoslate.com"
+  },
+  "cryptonews": {
+    "rss": "https://cryptonews.com/news/feed/",
+    "link": "https://cryptonews.com"
+  },
+  "smart_liquidity": {
+    "rss": "https://smartliquidity.info/feed",
+    "link": "https://smartliquidity.info/all-news"
+  },
+  "cryptopotato": {
+    "rss": "https://smartliquidity.info/feed",
+    "link": "https://cryptopotato.com/feed"
+  }
+}
